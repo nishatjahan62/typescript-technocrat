@@ -1,3 +1,6 @@
 [submodule "typescript-types"]
 	path = typescript-types
 	url = https://github.com/nishatjahan62/typescript-types.git
+[submodule "typescript-oop"]
+	path = typescript-oop
+	url = https://github.com/nishatjahan62/typescript-oop.git
